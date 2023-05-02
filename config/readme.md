@@ -1,0 +1,1 @@
+https://opsshield.com/help/cpguard/install-modsecurity-with-nginx-on-debian-ubuntu/
